@@ -1,0 +1,24 @@
+.main{
+    background-color: rgb(39, 39, 102);
+    height: 1200px;
+    width: 100vw;
+    position: relative;
+}
+
+.content{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   height: 600px;
+}
+
+.mark{
+position: absolute;
+background-color:rgb(232, 92, 73) ;
+color: white;
+right:33%;
+top: 35%;
+
+}
+ 

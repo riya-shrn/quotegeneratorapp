@@ -1,0 +1,19 @@
+.box{
+    width: 650px;
+    height: 280px;
+    background-color: rgb(232, 92, 73);
+    border-radius: 20px;
+    color: white;
+    font-size: larger;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 5px;
+}
+
+.alb{
+    padding-left: 24%;
+    padding-top: 15%;
+    font-size:small;
+    font-weight: 700;
+}

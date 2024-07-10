@@ -1,0 +1,11 @@
+
+.card1{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(226, 227, 232);
+    margin: 340px;
+    border-radius: 5px;
+}
+.id{
+    color: black;
+}
